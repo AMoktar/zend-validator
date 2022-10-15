@@ -17,7 +17,7 @@
     },
     "require": {
         "php": "^7.1|^8.0",
-        "amoktar/zend-stdlib": "^3.2.1",
+        "amoktar/zend-stdlib": "dev-master",
         "container-interop/container-interop": "^1.1"
     },
     "require-dev": {
